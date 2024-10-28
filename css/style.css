@@ -44,3 +44,21 @@ thead{
     background-color: #B1E5F2;
 }
 /* fine aggiunta stile tabella*/
+
+/*aggiunta pics sezione 3 */
+.preset{
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.photo1{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+}
+.photo2{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+}
+/* fine aggiunta pics sezione 3 */
