@@ -4,8 +4,9 @@ header{
     background-image: url(../img/pattern.png);
     height: 200px;
     background-repeat: repeat-x;
-    /* fine stile banner header*/
 }
+/* fine stile banner header*/
+
 /*add logo per banner*/
 .logo{
     background-image: url(../img/logo.svg);
@@ -13,11 +14,15 @@ header{
     height: 45%;
 }
 /*fine add logo banner*/
+
+
 /*aggiunta primo font credits*/ 
 .font1{
     color: #808080;
 }
 /*fine aggiunta primo font*/
+
+
 /*aggiunta secondo font credits*/
 .font2{
     color: #20A9E5;
