@@ -10,6 +10,16 @@ header{
 .logo{
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
-    height: 50%;
+    height: 45%;
 }
 /*fine add logo banner*/
+/*aggiunta primo font credits*/ 
+.font1{
+    color: #808080;
+}
+/*fine aggiunta primo font*/
+/*aggiunta secondo font credits*/
+.font2{
+    color: #20A9E5;
+}
+/*fine aggiunta secondo font*/
