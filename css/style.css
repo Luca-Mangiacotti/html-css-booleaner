@@ -28,3 +28,19 @@ header{
     color: #20A9E5;
 }
 /*fine aggiunta secondo font*/
+
+
+/*aggiunta stile tabella*/
+.bigger{
+    width: 60%;
+}
+
+thead{
+    background-color:#20A9E5 ;
+    color: #ffffff;
+}
+
+.specialrow{
+    background-color: #B1E5F2;
+}
+/* fine aggiunta stile tabella*/
